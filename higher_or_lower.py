@@ -27,4 +27,6 @@ def evaluation():
         print("random number was  " + newrndnum)
         print("your guess was  " + newusrnum)
 
-evaluation()
+
+if __name__ == "__main__":
+    evaluation()
