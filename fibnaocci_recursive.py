@@ -1,4 +1,4 @@
-# Function for nth Fibonacci number
+#  Function for nth Fibonacci number
 
 def Fibonacci(n):
     if n == 0:
@@ -15,3 +15,10 @@ if num < 0 or num > 30:
     print("wrong entry")
 else:
     print(Fibonacci(num))
+
+
+
+
+
+
+#
