@@ -14,7 +14,9 @@ def fibonacci(n: int) -> int:
 
         return xn
 
+
 num = int(input("enter a number :\n"))
+
 if num < 0:
     print("incorrect answer")
 else:
